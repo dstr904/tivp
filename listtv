@@ -1,205 +1,205 @@
 #EXTM3U
-#EXTINF:20,BAND
+#EXTINF:-1 tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png",BAND
 https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8?ManoTV
-#EXTINF:0,SBT
+#EXTINF:-1 tvg-name="SBT" tvg-logo="https://i.imgur.com/dj3OKKB.png",SBT
 https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
-#EXTINF:0,Record
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://imgur.com/lyQ1v9M.png",Record
 http://51.83.238.223:16141/
-#EXTINF:0,CNT
+#EXTINF:-1 tvg-name="CNT" tvg-logo="https://imgur.com/qFfyqQm.png",CNT
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4nFWIp20LhZ-A
-#EXTINF:27,Rede TV!
+#EXTINF:-1 tvg-name="Rede TV!" tvg-logo="https://imgur.com/2vYqKX5.png",Rede TV!
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
-#EXTINF:10,Canal GOV
+#EXTINF:-1 tvg-name="Canal GOV" tvg-logo="https://imgur.com/9KwUxmX.png",Canal GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:0,TV Camara
+#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://imgur.com/TlqB0Uo.png",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
-#EXTINF:0,TV Cultura
+#EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png",TV Cultura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,TV Agro
+#EXTINF:-1 tvg-name="TV Agro" tvg-logo="https://imgur.com/WjWjQ2A.png",TV Agro
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0,TV Aparecida
+#EXTINF:-1 tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/egU0jsZ.png",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ManoTV
-#EXTINF:0,IURD TV
+#EXTINF:-1 tvg-name="IURD TV" tvg-logo="https://i.imgur.com/f8Vi8Rc.png",IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_b02eb4ce-2196-406c-a399-7a6945fffdfe.m3u8
-#EXTINF:0,ViVA HD
+#EXTINF:-1 tvg-name="ViVA" tvg-logo="https://imgur.com/P2xB7uZ.png",ViVA
 http://64.31.40.14:14884/
-#EXTINF:0,Curta!
+#EXTINF:-1 tvg-name="Curta!" tvg-logo="https://i.imgur.com/g9AtH3s.png",Curta!
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
-#EXTINF:0,Amazon Sat
+#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="https://i.imgur.com/ev3SsBX.png",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ManoTV
-#EXTINF:0,Globo News
+#EXTINF:-1 tvg-name="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png",Globo News
 http://209.222.97.92:16436/
-#EXTINF:30,CNN
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://imgur.com/4dfmnBs.png",CNN
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
-#EXTINF:0,Band News
+#EXTINF:-1 tvg-name="Band News" tvg-logo="https://imgur.com/jCZzNjF.png",Band News
 http://cdn2.connectbr.com.br:80/Band-News/mono.m3u8?ManoTV
-#EXTINF:0,Jovem Pan News
+#EXTINF:-1 tvg-name="Jovem Pan News" tvg-logo="https://i.imgur.com/MWGAfvV.png",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
-#EXTINF:24,Noticias 24H
+#EXTINF:-1 tvg-name="Notícias 24H" tvg-logo="https://imgur.com/63xr9fk.png",Noticias 24H
 http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
-#EXTINF:60,CNN Internacional
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN Internacional
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:25,TV Euronews
+#EXTINF:-1 tvg-name="TV Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png",TV Euronews
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:60,Demand Africa
+#EXTINF:-1 tvg-name="Demand Africa" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/75/89/64/7589640f-38b9-cf6f-0963-1980ee7758a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",Demand Africa
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:0,MasterChef
+#EXTINF:-1 tvg-name="Masterchef" tvg-logo="https://imgur.com/qKwrAUT.png",MasterChef
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aaf550-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236636d2-5215-4c91-960b-a0fdf5d55119&userId=&serverSideAds=true
-#EXTINF:25,Pluto TV
+#EXTINF:-1 tvg-name="Pluto TV" tvg-logo="https://imgur.com/Of1yJaj.png",Pluto TV
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
-#EXTINF:25,MTV Are you the One?
+#EXTINF:-1 tvg-name="Are you the one ?" tvg-logo="https://imgur.com/oHVMcJ9.png",MTV Are you the One?
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
-#EXTINF:25,MTV Catfish
+#EXTINF:-1 tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",MTV Catfish
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25,MTV De Ferias com o Ex
+#EXTINF:-1 tvg-name="De férias com o Ex" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV De Ferias com o Ex
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:25,MTV Shore
+#EXTINF:-1 tvg-name="Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",MTV Shore
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:0,Sony SharkTank
+#EXTINF:-1 tvg-name="Sony Sharktank" tvg-logo="https://imgur.com/2qWdToI.png",Sony Sharktank
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
-#EXTINF:0,Multishow
+#EXTINF:-1 tvg-name="Multishow" tvg-logo="https://imgur.com/a4lEiwk.png",Multishow
 http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
-#EXTINF:0,World Poker Tour
+#EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png",World Poker Tour
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:22,Food Network
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-#EXTINF:114,Receita Fast
+#EXTINF:-1 tvg-name="Receita Fast" tvg-logo="https://imgur.com/X8bDYyO.png",Receita Fast
 https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
-#EXTINF:26,Discovery Channel
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png",Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
-#EXTINF:26,Discovery Turbo
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png",Discovery Turbo
 https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
-#EXTINF:26,Discovery World
+#EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://imgur.com/6sTkahx.png",Discovery World
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
-#EXTINF:26,Discovery ID
+#EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://imgur.com/OJWv4Ij.png",Discovery ID
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
-#EXTINF:26,Discovery Science
+#EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://imgur.com/1Hm6dQU.png",Discovery Science
 https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
-#EXTINF:26,Discovery Theater
+#EXTINF:-1 tvg-name="Discovery Theater" tvg-logo="https://imgur.com/NUFWsJ0.png",Discovery Theater
 https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
-#EXTINF:26,TLC
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://imgur.com/2F9asSD.png",TLC
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-#EXTINF:22,History 2
+#EXTINF:-1 ,History 2
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
-#EXTINF:24,History
+#EXTINF:-1 ,History
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
-#EXTINF:25,Comedy Central
+#EXTINF:-1 ,Comedy Central
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:22,MTV
+#EXTINF:-1 ,MTV
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
-#EXTINF:22,A&E
+#EXTINF:-1 ,A&E
 http://cdn.connectbr.com.br/AE/index.m3u8
-#EXTINF:24,AXN
+#EXTINF:-1 ,AXN
 https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
-#EXTINF:0,FX
+#EXTINF:-1 ,FX
 http://199.127.60.83:16043/
-#EXTINF:0,HBO 2
+#EXTINF:-1 ,HBO 2
 http://208.115.225.174:14140/
-#EXTINF:0,HBO Family
+#EXTINF:-1 ,HBO Family
 http://208.115.225.174:14144/
-#EXTINF:0,HBO
+#EXTINF:-1 ,HBO
 http://78.159.119.122:2082/xplus-2-hm2vteCpvb/C4bmGpPKKX/255
-#EXTINF:0,HBO SIGNATURE
+#EXTINF:-1 ,HBO SIGNATURE
 http://208.115.225.174:14160/
-#EXTINF:0,HBO Xtreme
+#EXTINF:-1 ,HBO Xtreme
 http://208.115.225.174:14165/
-#EXTINF:0,MEGAPIX
+#EXTINF:-1 ,MEGAPIX
 http://64.31.40.14:14048/
-#EXTINF:0,Paramount Channel
+#EXTINF:-1 ,Paramount Channel
 http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:0,Sony Channel
+#EXTINF:-1 ,Sony Channel
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
-#EXTINF:0,Sony Movies
+#EXTINF:-1 ,Sony Movies
 https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
-#EXTINF:22,AMC
+#EXTINF:-1 ,AMC
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
-#EXTINF:0,Sony One Classics
+#EXTINF:-1 ,Sony One Classics
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Sony One Emotion
+#EXTINF:-1 ,Sony One Emotion
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
-#EXTINF:0,SPACE HD
+#EXTINF:-1 ,SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:0,STAR CHANNEL
+#EXTINF:-1 ,STAR CHANNEL
 http://joao-1-us.mainbkonline.shop:80/qrdyirmy/d9ycaqx6/481
-#EXTINF:0,Telecine Action
+#EXTINF:-1 ,Telecine Action
 http://64.31.40.14:14056/
-#EXTINF:0,Telecine Pipoca
+#EXTINF:-1 ,Telecine Pipoca
 http://51.83.238.223:16763/
-#EXTINF:0,Telecine Premium
+#EXTINF:-1 ,Telecine Premium
 http://globo.xphost18.xyz:2052/Xxcanal665/Hftuiu678i/93
-#EXTINF:26,TNT
+#EXTINF:-1 ,TNT
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
-#EXTINF:0,Universal Channel
+#EXTINF:-1 ,Universal Channel
 http://208.115.225.174:14128/
-#EXTINF:0,Warner Channel
+#EXTINF:-1 ,Warner Channel
 http://208.115.225.174:14132/
-#EXTINF:114,Ge Fast
+#EXTINF:-1 ,Ge Fast
 https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
-#EXTINF:0,Band Sports
+#EXTINF:-1 ,Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-#EXTINF:0,ESPN
+#EXTINF:-1 ,ESPN
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-#EXTINF:0,ESPN 2
+#EXTINF:-1 ,ESPN 2
 http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/129
-#EXTINF:28,ESPN 3
+#EXTINF:-1 ,ESPN 3
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
-#EXTINF:0,ESPN 4
+#EXTINF:-1 ,ESPN 4
 http://51.83.238.223:16575/
-#EXTINF:54,FIFA PLUS
+#EXTINF:-1 ,FIFA PLUS
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-#EXTINF:0,Premiere 2
+#EXTINF:-1 ,Premiere 2
 http://208.115.225.174:14464/
-#EXTINF:0,Premiere 3
+#EXTINF:-1 ,Premiere 3
 http://185.150.190.225:16468/
-#EXTINF:0,Premiere 5
+#EXTINF:-1 ,Premiere 5
 http://185.150.190.225:16476/
-#EXTINF:0,Premiere Clubes
+#EXTINF:-1 ,Premiere Clubes
 http://208.115.225.174:14460/
-#EXTINF:0,SporTV 2
+#EXTINF:-1 ,SporTV 2
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:0,SporTV 3
+#EXTINF:-1 ,SporTV 3
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-#EXTINF:21,TNT Sports
+#EXTINF:-1 ,TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?ManoTV
-#EXTINF:0,TNT Sports 2
+#EXTINF:-1 ,TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8?ManoTV
-#EXTINF:0,TNT Sports 3
+#EXTINF:-1 ,TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8?ManoTV
-#EXTINF:20,TNT Sports 4
+#EXTINF:-1 ,TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8?ManoTV
-#EXTINF:20,TNT Sports 5
+#EXTINF:-1 ,TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8?ManoTV
-#EXTINF:0,UFC
+#EXTINF:-1 ,UFC
 http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
-#EXTINF:0,Combate
+#EXTINF:-1 ,Combate
 http://209.222.97.92:16493/
-#EXTINF:0,Disney Channel
+#EXTINF:-1 ,Disney Channel
 http://51.83.238.223:16274/
-#EXTINF:26,Discovery Kids
+#EXTINF:-1 ,Discovery Kids
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-#EXTINF:20,Discovery Kids 2
+#EXTINF:-1 ,Discovery Kids 2
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
-#EXTINF:5,Cartoon Network
+#EXTINF:-1 ,Cartoon Network
 http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
-#EXTINF:0,Cartoon Network 2
+#EXTINF:-1 ,Cartoon Network 2
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/347
-#EXTINF:20,Clubinho
+#EXTINF:-1 ,Clubinho
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
-#EXTINF:20,Cartoonito
+#EXTINF:-1 ,Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8?ManoTV
-#EXTINF:26,Tooncast
+#EXTINF:-1 ,Tooncast
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
-#EXTINF:26,ZooMoo
+#EXTINF:-1 ,ZooMoo
 https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
-#EXTINF:0,Nickelodeon
+#EXTINF:-1 ,Nickelodeon
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
-#EXTINF:0,Nickelodeon Junior
+#EXTINF:-1 ,Nickelodeon Junior
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
-#EXTINF:0,Nickelodeon Teen
+#EXTINF:-1 ,Nickelodeon Teen
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c56030-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7b86a23-4b64-4f9c-9c4c-bedb3edcc1b1&userId=&serverSideAds=true
-#EXTINF:95,MaisUm Clipes
+#EXTINF:-1 ,MaisUm Clipes
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
-#EXTINF:24,Sertanejo Clipes
+#EXTINF:-1 ,Sertanejo Clipes
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-#EXTINF:0,South Park
+#EXTINF:-1 ,South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
