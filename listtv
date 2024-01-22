@@ -11,8 +11,6 @@ http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZesaflEnFih4
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-name="Canal GOV" tvg-logo="https://imgur.com/9KwUxmX.png",Canal GOV
 https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8
-#EXTINF:-1 tvg-name="TV Câmara" tvg-logo="https://imgur.com/TlqB0Uo.png",TV Camara
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ManoTV
 #EXTINF:-1 tvg-name="TV Cultura" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png",TV Cultura
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="TV Agro" tvg-logo="https://imgur.com/WjWjQ2A.png",TV Agro
@@ -63,8 +61,6 @@ http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/24
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="Food Network" tvg-logo="https://imgur.com/AH3uBDj.png",Food Network
 https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-#EXTINF:-1 tvg-name="Receita Fast" tvg-logo="https://imgur.com/X8bDYyO.png",Receita Fast
-https://dl27mmj7tlts0.cloudfront.net/03.m3u8?ManoTV
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://imgur.com/dgGgYjc.png",Discovery Channel
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png",Discovery Turbo
@@ -97,8 +93,6 @@ http://199.127.60.83:16043/
 http://208.115.225.174:14140/
 #EXTINF:-1 ,HBO Family
 http://208.115.225.174:14144/
-#EXTINF:-1 ,HBO
-http://78.159.119.122:2082/xplus-2-hm2vteCpvb/C4bmGpPKKX/255
 #EXTINF:-1 ,HBO SIGNATURE
 http://208.115.225.174:14160/
 #EXTINF:-1 ,HBO Xtreme
@@ -119,8 +113,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
 #EXTINF:-1 ,SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
-#EXTINF:-1 ,STAR CHANNEL
-http://joao-1-us.mainbkonline.shop:80/qrdyirmy/d9ycaqx6/481
 #EXTINF:-1 ,Telecine Action
 http://64.31.40.14:14056/
 #EXTINF:-1 ,Telecine Pipoca
@@ -133,14 +125,10 @@ https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
 http://208.115.225.174:14128/
 #EXTINF:-1 ,Warner Channel
 http://208.115.225.174:14132/
-#EXTINF:-1 ,Ge Fast
-https://dxmy6u2c9ad0l.cloudfront.net/03.m3u8?ManoTV
 #EXTINF:-1 ,Band Sports
 http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 ,ESPN
 http://sl1.xphost20.xyz:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
-#EXTINF:-1 ,ESPN 2
-http://main.xplus2-main.xyz:2082/Tourobox1-mTcRa6ziZS/kGFdfab37i/129
 #EXTINF:-1 ,ESPN 3
 http://142.54.163.202/premium83/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ESPN 4
@@ -179,10 +167,6 @@ http://51.83.238.223:16274/
 https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 ,Discovery Kids 2
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://187.95.95.243:80/Cartoon-Network/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Cartoon Network 2
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/347
 #EXTINF:-1 ,Clubinho
 http://cdn.connectbr.com.br:80/Clubinho/tracks-v1a1/mono.m3u8?ManoTV
 #EXTINF:-1 ,Cartoonito
@@ -201,5 +185,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60f5fabf0721880007c
 https://stream.ichibantv.com:3230/hybrid/play.m3u8
 #EXTINF:-1 ,Sertanejo Clipes
 https://isaocorp.cloudecast.com/toptv/index.m3u8?ManoTV
-#EXTINF:-1 ,South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
